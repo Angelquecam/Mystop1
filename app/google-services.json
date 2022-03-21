@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170953921024",
+    "project_id": "mystop-c97b5",
+    "storage_bucket": "mystop-c97b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170953921024:android:1e51421cd9df8c0f9e7ee5",
+        "android_client_info": {
+          "package_name": "app.inovatecmm.mystop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170953921024-q92knchu34gm9e3c0348ip59nv59m3b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_x6r8NgsQxpqsvdUqqjUvdRlpfSUkvxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170953921024-q92knchu34gm9e3c0348ip59nv59m3b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
